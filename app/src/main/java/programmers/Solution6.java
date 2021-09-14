@@ -21,7 +21,7 @@ class Solution7 {
     //    int answer = 0;
     //    String ans = "";
     //
-    //    while (n > 0) {
+    //    while (n > 0) {                       //3진법 공식
     //      ans = (n % 3) + ans;
     //      n /= 3;
     //    }
